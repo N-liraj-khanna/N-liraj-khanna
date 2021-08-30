@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **Node JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/N-liraj-khanna?tab=repositories](https://github.com/N-liraj-khanna?tab=repositories)
+- 👨‍💻 All of my projects are available at [@N-liraj-khanna](https://github.com/N-liraj-khanna?tab=repositories)
 
 - 💬 Ask me about **any doubts or bugs in my code, any time:)**
 
-- 📫 How to reach me **lirajkhanna2002@gmail.com**
+- 📫 How to reach me **[secret](mailto:lirajkhanna2002@gmail.com)**
 
 - ⚡ Did You Know?   **In order to understand recursion, one must first understand recursion.**
 
