@@ -4,7 +4,7 @@
 
 > &nbsp;&nbsp; *Ah, You've finally discovered my Github profile. Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. Ask me anything [here]() or email me.*
 
-<p align="left"> <a href="https://instagram.com/_liraj_khanna_" target="blank"><img src="https://img.shields.io/twitter/follow/_liraj_khanna_?logo=twitter&style=for-the-badge" alt="_liraj_khanna_" /></a></p>
+<p align="left"> <a href="https://twitter.com/_liraj_khanna_" target="blank"><img src="https://img.shields.io/twitter/follow/_liraj_khanna_?logo=twitter&style=for-the-badge" alt="_liraj_khanna_" /></a></p>
 
 - 🔭 I’m currently studying in [Vellore Institute of Technology, Vellore](https://vit.ac.in/)
 
