@@ -20,9 +20,10 @@
 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder=1&qColor=%23f55d42&aColor=%2342b6f5&textColor=%2342b6f5&codeColor=%2342b6f5)
+<p align="center">
 
 <h3 align="left">Connect with me:</h3>
-< align="left">
+<p align="left">
 <a href="https://dev.to/https://dev.to/nlirajkhanna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/nlirajkhanna" height="30" width="40" /></a>
 <a href="https://twitter.com/_liraj_khanna_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_liraj_khanna_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/n-liraj-khanna-227aa01ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/n-liraj-khanna-227aa01ba/" height="30" width="40" /></a>
@@ -42,3 +43,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N-liraj-khanna&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N-liraj-khanna&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=N-liraj-khanna&theme=default)
+
+</p>
