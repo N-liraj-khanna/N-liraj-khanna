@@ -50,7 +50,7 @@ const anmol = {
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/n-liraj-khanna-227aa01ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/n-liraj-khanna-227aa01ba/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/n-liraj-khanna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/n-liraj-khanna-227aa01ba/" height="30" width="40" /></a>
 <a href="https://twitter.com/_liraj_khanna_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_liraj_khanna_" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:15273963" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:15273963" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/lk1252" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="lk1252" height="30" width="40" /></a>
