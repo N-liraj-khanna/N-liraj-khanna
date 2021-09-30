@@ -2,7 +2,7 @@
 <h3 align="center">I convert caffeine into code!</h3>
 
 
-> &nbsp;&nbsp; *Ah, You've finally discovered my Github profile. Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. Ask me anything [here]() or email me.*
+> &nbsp;&nbsp; *Ah, You've finally discovered my Github profile. Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. Ask me anything [here]("https://www.linkedin.com/in/n-lirajkhanna/") or email me.*
 
 [![forthebadge](https://forthebadge.com/images/badges/contains-17-coffee-cups.svg)](https://forthebadge.com)
 
