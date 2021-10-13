@@ -71,9 +71,10 @@ const anmol = {
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-# ⚠️ License
+# 📝 License
 
-The Well app is free and open-source software licensed under the GNU General Public License v3.0. All designs were created by [N Liraj Khanna](https://github.com/N-liraj-khanna) and distributed under Creative Commons license (CC BY-SA 4.0 International).
+Copyright © 2021 [N Liraj Khanna](https://github.com/N-liraj-khanna).<br />
+This project is [ISC](https://github.com/N-liraj-khanna/Live-Crypto-CLI/blob/master/LICENSE) licensed.
 
 <br />
 
