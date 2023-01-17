@@ -46,9 +46,7 @@ const anmol = {
 
 ```
 
-
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder=1&qColor=%23f55d42&aColor=%2342b6f5&textColor=%2342b6f5&codeColor=%2342b6f5)
-<p align="center">
+<img width="500px" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 <h3 align="left">Languages and Tools:</h3>
 
