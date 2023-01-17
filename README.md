@@ -2,15 +2,17 @@
 <h3 align="center">I convert caffeine into code!</h3>
 
 
-> &nbsp;&nbsp; *Ah, You've finally discovered my Github profile. Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. Ask me anything [here](https://www.linkedin.com/in/n-lirajkhanna/) or email me.*
+> &nbsp;&nbsp; *Ah, You've finally discovered my Github profile. Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. Ask me anything [here](https://www.linkedin.com/in/n-lirajkhanna/) or [email](mailto:lirajkhanna2002@gmail.com) me.*
 
 [![forthebadge](https://forthebadge.com/images/badges/contains-17-coffee-cups.svg)](https://forthebadge.com)
 
 <h3 align="left">About me:</h3>
 
+- 💼 My Portfolio - [lirajkhanna](https://lirajkhanna.vercel.app)
+
 - 🔭 I’m currently studying in [Vellore Institute of Technology, Vellore](https://vit.ac.in/)
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I'm a self-educated **full-stack web developer**.
 
 - 👨‍💻 All of my projects are available at [@N-liraj-khanna](https://github.com/N-liraj-khanna?tab=repositories)
 
@@ -26,20 +28,20 @@
 const anmol = {
     pronouns: "He" | "Him",
     code: ["Python", "JavaScript", "C++", "Java"],
-    askMeAbout: ["Web dev", "Tech savvy", "Anime❤️", "Foodie🍟", "Organized📁"],
+    askMeAbout: ["Web dev", "ML", "Tech", "Anime", "Productivity📁"],
     technologies: {
         backEnd: {
-            JS: ["Node JS", "Express JS", "AJAX", "JQuery"],
-            Python: ["Django", "Jinja", "TKinter", "PyQt", "Pandas"]
+            JS: ["Node JS", "Express JS"],
+            Python: ["ML", "Flask", "Django", "TKinter", "PyQt", "Pandas"]
         },
         frontEnd: {
-            native: ["HTML5", "CSS3", "JavaScript", "Bootstrap", "Ctrl+C", "Ctrl+V"]
+            native: ["React JS", "HTML5/CSS3", "JavaScript", "Bootstrap", "Ctrl+C", "Ctrl+V"]
         },
-        databases: ["mongo db", "MySql", "sqlite"],
-        misc: ["Open Source", "Socket.IO", "selenium", "Beautiful Soup"]
+        databases: ["Mongo DB", "MySql", "sqlite"],
+        misc: ["Git", "Agile", "Socket.IO", "selenium", "Beautiful Soup"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Node JS Web App Development",
+    currentFocus: "Integrating ML with full stack web applications.",
 };
 
 ```
@@ -47,16 +49,6 @@ const anmol = {
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder=1&qColor=%23f55d42&aColor=%2342b6f5&textColor=%2342b6f5&codeColor=%2342b6f5)
 <p align="center">
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/n-liraj-khanna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/n-liraj-khanna-227aa01ba/" height="30" width="40" /></a>
-<a href="https://twitter.com/_liraj_khanna_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_liraj_khanna_" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/lk1252" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="lk1252" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/lirajkhanna2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lirajkhanna2002" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/lirajkhanna2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="lirajkhanna2002" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/n-liraj-khanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="n-liraj-khanna" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@n533" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@n533" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 
