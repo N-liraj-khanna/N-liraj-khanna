@@ -40,13 +40,18 @@ const anmol = {
         databases: ["Mongo DB", "MySql", "sqlite"],
         misc: ["Git", "Agile", "Socket.IO", "selenium", "Beautiful Soup"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    architecture: ["Single page applications"],
     currentFocus: "Integrating ML with full stack web applications.",
 };
 
 ```
 
+
+<center>
+
 <img width="500px" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+<p align="center">
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -61,18 +66,16 @@ const anmol = {
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-# 📝 License
-
-Copyright © 2021 [N Liraj Khanna](https://github.com/N-liraj-khanna).<br />
-This project is [ISC](https://github.com/N-liraj-khanna/Live-Crypto-CLI/blob/master/LICENSE) licensed.
 
 <br />
 
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N-liraj-khanna&theme=default" />
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N-liraj-khanna&theme=default)
+<br/>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N-liraj-khanna&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=N-liraj-khanna&theme=default)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=N-liraj-khanna&theme=default)
 </p>
 
 <br>
@@ -81,3 +84,9 @@ This project is [ISC](https://github.com/N-liraj-khanna/Live-Crypto-CLI/blob/mas
 <br>
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
+</center>
+
+# 📝 License
+
+Copyright © 2021 [N Liraj Khanna](https://github.com/N-liraj-khanna).<br />
+This project is [ISC](https://github.com/N-liraj-khanna/Live-Crypto-CLI/blob/master/LICENSE) licensed.
