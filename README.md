@@ -49,10 +49,8 @@ const anmol = {
 
 <center>
 
-<img width="500px" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
+<img width="500px"  height="120px" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <p align="center">
-
 <h3 align="left">Languages and Tools:</h3>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -64,10 +62,6 @@ const anmol = {
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
-
-<br />
 
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N-liraj-khanna&theme=default" />
 
