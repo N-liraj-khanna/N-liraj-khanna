@@ -46,10 +46,11 @@ const anmol = {
 
 ```
 
+<div aligh="center">
+<img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" />
+</div>
 
 <center>
-
-<img width="500px"  height="120px" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <p align="center">
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
@@ -69,11 +70,11 @@ const anmol = {
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N-liraj-khanna&theme=moonlight) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N-liraj-khanna&theme=nord_dark) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N-liraj-khanna&theme=moonlight)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N-liraj-khanna&theme=moonlight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N-liraj-khanna&theme=nord_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N-liraj-khanna&theme=nord_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=N-liraj-khanna&theme=moonlight)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=N-liraj-khanna&theme=moonlight&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=N-liraj-khanna&theme=nord_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=N-liraj-khanna&theme=nord_dark&utcOffset=8)
 
 </div>
 </p>
