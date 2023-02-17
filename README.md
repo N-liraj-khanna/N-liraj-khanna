@@ -49,8 +49,6 @@ const anmol = {
 <div align="center">
 <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" />
 </div>
-
-<center>
 <p align="center">
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
@@ -79,7 +77,6 @@ const anmol = {
 </div>
 </p>
 
-</center>
 
 <div align="center">
 <br>
