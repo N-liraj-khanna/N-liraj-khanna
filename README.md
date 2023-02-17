@@ -46,7 +46,7 @@ const anmol = {
 
 ```
 
-<div aligh="center">
+<div align="center">
 <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" />
 </div>
 
@@ -79,13 +79,17 @@ const anmol = {
 </div>
 </p>
 
+</center>
+
+<div align="center">
 <br>
 <strong><em>There are two ways to write error-free programs; only the third one works.</em></strong>
 <br>
 <br>
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
-</center>
+
+</div>
 
 # 📝 License
 
