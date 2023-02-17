@@ -71,6 +71,10 @@ const anmol = {
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N-liraj-khanna&theme=moonlight) 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N-liraj-khanna&theme=moonlight)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N-liraj-khanna&theme=moonlight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=N-liraj-khanna&theme=moonlight)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=N-liraj-khanna&theme=moonlight&utcOffset=8)
+
 </div>
 </p>
 
