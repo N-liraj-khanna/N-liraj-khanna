@@ -25,7 +25,7 @@
 <p> A little more about me...</p>
 
 ```
-const anmol = {
+const liraj = {
     pronouns: "He" | "Him",
     code: ["Python", "JavaScript", "C++", "Java"],
     askMeAbout: ["Web dev", "ML", "Tech", "Anime", "Productivity📁"],
